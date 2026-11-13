@@ -1,0 +1,17 @@
+four inputs from the makey makey, WASD or arrow keys.:
+we will use unity's input sys to do that.
+
+if you click one of the arrows it will have 0.25 seconds to catch projectiles:
+by default the tiangles to intercept the projectiles are set to setactive(false).
+When we catch an input we will make them active for 0.25 seconds (time active may change).
+in the time its active it can intercept projectiles.
+
+projectiles come from all sides:
+Projeectiles are comming from all sides, when its at the midle of the triangle is when the beat hits.
+projectiles spawn in based on a unity chart(might change).
+
+Multiple songs:
+every song has to be a piece of data containing the beats per minute, name of the song and the rythem self
+for every note of the melody or beat there are the four options up, down, right, left.
+songs can be selected from a list that projects to the game UI from a script.
+in that script we can insert all the song file ID's
