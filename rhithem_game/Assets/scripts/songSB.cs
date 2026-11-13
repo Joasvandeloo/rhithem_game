@@ -15,4 +15,5 @@ public class songSB : ScriptableObject
     public string discription;
     public string genre;
     public string difficulty;
+    public string artist;
 }
