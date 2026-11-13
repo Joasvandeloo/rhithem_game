@@ -1,11 +1,28 @@
- Game: 
+ Game: beat master
 
-player is in the middel.
-projectiles come from all sides.
-player needs to block them with the corosponding arrows on the gamepad.
-Multiple songs.
-multiple rythem speeds.
-home screen.
-four inputs from the makey makey, WASD or arrow keys.
+the player:
+The player is a block with points on all sides.
+The player is also on the makey makey input device.
 
 
+projectiles:
+Projectiles get launched at you on the beat of the music
+
+
+blocking projectiles:
+The player can block the projectiles with the buttons on the makey makey input device.
+
+
+Songs:
+there should be multiple songs.
+there should be multiple rythems
+
+
+home screen:
+On the homescreen there are the buttons, play, settings and quit.
+the play button brings you to the song selection screen.
+
+
+the makey makey input device:
+the device is a square with 4 buttons: UP, DOWN, RIGHT, LEFT.
+if you click one of the arrows it will have 0.25 seconds to catch projectiles
