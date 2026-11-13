@@ -4,25 +4,38 @@ the player:
 The player is a block with points on all sides.
 The player is also on the makey makey input device.
 
+requirements:
+a makey makey,
+working computer,
+
 
 projectiles:
 Projectiles get launched at you on the beat of the music
 
 
 blocking projectiles:
-The player can block the projectiles with the buttons on the makey makey input device.
+The player can block the projectiles by pressing the buttons on the makey makey input device.
+by pressing up, down, right or left colored arrows appear for 0.1 seconds to block the projectiles.
 
 
 Songs:
-there should be multiple songs.
-there should be multiple rythems
+there should be multiple songs of varying difficulty.
+there should be multiple rhythms.
 
 
 home screen:
-On the homescreen there are the buttons, play, settings and quit.
-the play button brings you to the song selection screen.
+On the home screen there are the buttons, play, settings and quit.
+the play button brings you to the song selection screen then you choose a song and play.
+the settings button brings you to settings.
+the quit button lets you exit the game.
 
 
 the makey makey input device:
 the device is a square with 4 buttons: UP, DOWN, RIGHT, LEFT.
-if you click one of the arrows it will have 0.25 seconds to catch projectiles
+if you click one of the arrows it will have 0.1 seconds to catch projectiles.
+
+
+testing:
+do all the buttons get input when you press them? []
+does the unity program work? []
+do things look broken? []
